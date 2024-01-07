@@ -50,3 +50,39 @@ main {
     border-radius: .4rem;
     box-shadow: 3px 4px 5px rgba(43, 40, 40, 0.498);
 }
+.details {
+    display: block;
+    margin-top: 2.6rem;
+    background-color: #FFF8F3;
+    border-radius: 1.5rem;
+    padding: 5rem 5.5rem;
+    box-shadow: .7rem 1rem 1rem rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+.myDetails {
+    display: flex;
+    padding: 2rem 1rem;
+}
+.educationDetails , .jobDeatils {
+    text-align: left;
+}
+.edu , .job {
+    border-bottom: 2px solid rgb(63, 63, 63);
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    box-shadow: 0px 3px 2px black;
+    background-color: antiquewhite;
+    margin: 1rem .5rem;
+}
+/* .jobDeatils {
+    text-align: left;
+} */
+/* .job {
+    border-bottom: 2px solid rgb(63, 63, 63);
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    box-shadow: 0px 3px 2px black;
+    background-color: antiquewhite;
+    margin: 1rem .5rem;
+} */
+
