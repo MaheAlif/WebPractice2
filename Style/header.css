@@ -1,0 +1,84 @@
+header {
+    background-color: rgb(255, 255, 255);
+    background-image: url('../portfolio-resources-main/images/header_bg.png');
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-position: bottom right;
+}
+.primaryColor {
+    color: #FD6E0A;
+}
+.btnPrimary {
+    color :aliceblue;
+    background-color: #FD6E0A;
+    border: 5px solid #FD6E0A;
+    border-radius: .7rem;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+.btnContact {
+    color :#FD6E0A;
+    background-color: #f9f9f982;
+    border: 5px solid #FD6E0A;
+    border-radius: .7rem;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+.banner {
+    padding: 30px 0px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bannerGreeting {
+    max-width: 500px;
+}
+.bannerPic {
+    /* width: 200px; */
+    background-repeat: no-repeat;
+}
+.bannerPGreeting {
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 2rem;
+}
+.bannerh3Greeting {
+    font-size: 20px;
+    font-weight: 700;
+}
+.btnCV {
+    margin-right: 1rem;
+}
+nav{
+    display: flex;
+    margin :0px 50px 0px 200px;
+}
+ul {
+    display: flex;
+    align-items: center;
+}
+nav li {
+    list-style: none;
+}
+
+li, .btn-hire {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+nav a {
+    text-decoration: none;
+    color :#515151;
+}
+nav {
+    justify-content: space-between;
+}
+.navTittle {
+    color : #181818;
+    font-weight: 800;
+    font-size: 45px;
+}
+span {
+    color :#FD6E0A;
+}

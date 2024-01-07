@@ -1,0 +1,29 @@
+
+main {
+    max-width: 1140px;
+    margin: 100px auto;
+}
+.about {
+    margin: 0px;
+    background-color: #FFF8F3;
+    border-radius: 1.5rem;
+    padding: 5rem 5.5rem;
+}
+.aboutTittle {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.aboutDescription {
+    text-align: center;
+}
+.aboutInfoContainer {
+    display: flex;
+}
+.aboutInfo {
+    margin: auto;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: .5rem;
+    border-radius: .4rem;
+}
