@@ -8,6 +8,7 @@ main {
     background-color: #FFF8F3;
     border-radius: 1.5rem;
     padding: 5rem 5.5rem;
+    box-shadow: .7rem 1rem 1rem rgba(0, 0, 0, 0.498);
 }
 .aboutTittle {
     font-size: 20px;
@@ -26,4 +27,26 @@ main {
     background-color: antiquewhite;
     padding: .5rem;
     border-radius: .4rem;
+    box-shadow: 3px 4px 5px rgba(43, 40, 40, 0.498);
+}
+.work {
+    margin-top: 2.6rem;
+    background-color: #FFF8F3;
+    border-radius: 1.5rem;
+    padding: 5rem 5.5rem;
+    box-shadow: .7rem 1rem 1rem rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+.skillInfo {
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+.skill {
+    margin: 0px 10px;
+    text-align: left;
+    background-color: rgb(255, 251, 245);
+    padding: 2rem 1rem;
+    border-radius: .4rem;
+    box-shadow: 3px 4px 5px rgba(43, 40, 40, 0.498);
 }
